@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello.
 I write for me.
+=======
+Hello
+h
+>>>>>>> ed847d601d7657be6695dfe0096a6734075963cc
